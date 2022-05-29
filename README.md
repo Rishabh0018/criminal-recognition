@@ -32,6 +32,8 @@ In the cloned repository run command <h4> npm install</h4>
 Now, run command <h4> npm start</h4>
 <b>Congratulations!</b>
 You can now visit localhost:3000 and allow the camera access to the browser. Alternatively if the code is opened in vs code then just open index.html from public folder and run the extension live server <h4>Preferable browser is Google chrome</h4>
+<br>
+<h6>As it is a browser based application it may take a few seconds to ask for the camera access or loading the models So kindly wait for a few seconds</h6>
 You are good to GO now. you can check the image data and detected data in console.
 
 
