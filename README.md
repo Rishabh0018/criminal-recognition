@@ -1,7 +1,7 @@
-#Criminal recogniser <br>
+<h1>#Criminal recogniser</h1> <br>
 <h2>
 Hello judges I am Rishabh Kamthare a mentee in engange 2022. 
-I am writing this here as due to some issues in my microphone at the very end momentand due to that I was unable to record the audio in the demo video.
+I am writing this here as due to some issues in my microphone at the very end moment, I was unable to record the audio in the demo video.
 </h2>
 
 I had my Mid-sem tests, end semester examinations and viva examinations all over this period of the mentorship programme, that's why I was not able to build something which shows my full potential. Other than that I mailed the mentor assigned to me several times but of no avail, so I had to do it all by myself.
